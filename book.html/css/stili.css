@@ -1,0 +1,12 @@
+@light:#1a1820;
+@border-input:#1a1820;
+
+body{
+	text-color:@light;
+	text-align:center;
+	display:block;
+	width:50%;
+	border:1px solid @border-input;
+ 	border-radius: 5px;
+	
+}

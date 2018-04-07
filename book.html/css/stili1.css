@@ -1,0 +1,12 @@
+@light:#1a1820;
+@border-input:#1a1820;
+
+book-body{
+	text-color:@light;
+	text-align:center;
+	display:block;
+	width:50%;
+	transform:translateX(-40%) translateY(-60%);
+ 	border-radius: 5px;
+	
+}
